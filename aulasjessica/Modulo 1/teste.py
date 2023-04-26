@@ -1,0 +1,5 @@
+print ("o leo ")
+print ("o leo falou")
+print ("o leo falou para")
+print ("o leo falou para escrever") 
+print ("o leo falou para escrever batata")
