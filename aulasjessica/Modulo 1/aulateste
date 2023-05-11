@@ -1,0 +1,23 @@
+import random 
+
+
+n1 = str(input("digite um nome >>"))
+n2 = str(input("digite um nome >>"))
+n3 = str(input("digite um nome >>"))
+n4 = str(input("digite um nome >>"))
+n5 = str(input("digite um nome >>"))
+n6 = str(input("digite um nome >>"))
+
+
+
+
+lista = [n1, n2, n3, n4,n5, n6]
+sorteio = random.choice(lista)
+
+
+
+
+
+
+
+print(sorteio)

@@ -10,5 +10,5 @@ while var != 0:
     print("voce digitou o numero invalido")
 
 
-    floor(random () * (10 - 1)) + 1 :
+
     
